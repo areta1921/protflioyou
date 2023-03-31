@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/protflioyou/static/css/main.d6ee6813.css",
+    "main.js": "/protflioyou/static/js/main.e835b4fb.js",
+    "static/media/af.jpg": "/protflioyou/static/media/af.061b601e232c53bd2068.jpg",
+    "static/media/ac.jpeg": "/protflioyou/static/media/ac.b56acf9871239a5497af.jpeg",
+    "static/media/ad.jpg": "/protflioyou/static/media/ad.adab95d600bfb5dc03c7.jpg",
+    "static/media/ab.webp": "/protflioyou/static/media/ab.d05f5b16e27b2789fdc0.webp",
+    "index.html": "/protflioyou/index.html",
+    "main.d6ee6813.css.map": "/protflioyou/static/css/main.d6ee6813.css.map",
+    "main.e835b4fb.js.map": "/protflioyou/static/js/main.e835b4fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ee6813.css",
+    "static/js/main.e835b4fb.js"
+  ]
+}
